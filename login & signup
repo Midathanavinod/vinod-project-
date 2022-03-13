@@ -1,0 +1,65 @@
+<div class="signin-signup l-attop" id="login">
+  <div class="signin-signup-title">
+    LOG IN
+  </div>
+  <div class="signin-signup-content">
+    <div class="input-name">
+      <h3>Username</h3>
+
+    </div>
+    <input type="text" name="Email" value="" class="field-input" />
+    <div class="input-name input-margin">
+      <h3>Password</h3>
+
+    </div>
+    <input type="text" name="password" value="" class="field-input" />
+    <div class="input-r">
+
+
+      <div class="check-input">
+        <input type="checkbox" id="remember-me-2" name="rememberme" value="" class="checkme">
+        <label class="remmeberme-blue" for="remember-me-2"></label>
+      </div>
+      <div class="rememberme"><label for="remember-me-2">Remember Me</label></div>
+    </div>
+    <button class="submit-btn">
+          Enter
+        </button>
+
+
+    <div class="forgot-pass">
+      <a href="#">Forgot Password?</a>
+    </div>
+
+  </div>
+</div>
+
+
+<div class="login-signup s-atbottom" id="signup">
+  <div class="login-signup-title">
+    SIGN UP
+  </div>
+  <div class="login-signup-content">
+    <div class="input-name">
+      <h3>Username</h3>
+
+    </div>
+    <input type="text" name="Email" value="" class="field-input" />
+    <div class="input-name input-margin">
+      <h3>E-Mail</h3>
+
+    </div>
+    <input type="text" name="Email" value="" class="field-input" />
+    <div class="input-name input-margin">
+      <h3>Password</h3>
+
+    </div>
+    <input type="text" name="password" value="" class="field-input" />
+
+    <button class="submit-btn">
+              Enter
+            </button>
+
+
+  </div>
+</div>
